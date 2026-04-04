@@ -2,6 +2,7 @@
 
 A stable, resource-free Wayland environment.
 Built on Quickshell and heavily inspired by the end4 (illogical-impulse) architecture. "mostly stable on arch/arch-based"
+And uses custom packages (like a custom comitbar -- waybar alt and mitck -- dynamic dock)
 
 # ⚠️ Caution: Beta Software
 
