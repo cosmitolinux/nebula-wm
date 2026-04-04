@@ -34,5 +34,5 @@ Resource-Free: Zero unnecessary background processes. (expect comitbar and more)
 Stable Core: Built for daily production use.
 
 Deeply Integrated: Custom Spicetify and GTK branding out of the box.
---------------------------------------------------------------------------------------------------------------------------
-Now one last thing i forgot to mention is that this project is still in the making so you can't really access it right now.
+
+# Project Made By Cosmito (no one else worked on this)
