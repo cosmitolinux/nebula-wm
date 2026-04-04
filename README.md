@@ -8,10 +8,9 @@ Built on Quickshell and heavily inspired by the end4 (illogical-impulse) archite
 
 # ⚠️ Caution: Beta Software
 
-[!CAUTION]:
-    This window manager project is currently in Beta.
-    While designed for stability and performance, it involves deep system configurations. I recommend using this at your own risk.
-    Always back up your existing dotfiles before installation!
+> [!CAUTION]:
+>This window manager project is currently in Beta.
+While designed for stability and performance, it involves deep system configurations. I recommend using this at your own risk. Always back up your existing dotfiles before installation!
 
 # 🚀 Overview
 
