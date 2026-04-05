@@ -4,7 +4,6 @@
   <a href="https://github.com/cosmito/n3bu1a-shell/stargazers"><img src="https://img.shields.io/github/stars/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="stars"></a>
   <a href="https://github.com/cosmito/n3bu1a-shell/network/members"><img src="https://img.shields.io/github/forks/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="forks"></a>
   <a href="https://github.com/cosmito/n3bu1a-shell/releases"><img src="https://img.shields.io/github/v/release/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="release"></a>
-  <a href=https://github.com/cosmitolinux/n3matrix>
 </p>
 
 <p align="center">
@@ -33,6 +32,7 @@ n3bu1a isn't just a config—it's a rebuilt desktop experience. it takes the raw
 - **Chaotic-AUR** -- bc automatic building aur packages
 - **oh my fish** -- equal to zsh and looks good
 - **hyprlock** -- i mean i could make my own locking system but not at this moment
+- **neb-packages** -- https://github.com/cosmitolinux/n3matrix <--- that one is a public package anyone can install but neb-packages are normally used for custom commands and configuring.
 **this is a new project so dont expect the best**
 
 ## usage
