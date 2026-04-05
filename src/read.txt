@@ -1,0 +1,6 @@
+uses oh my fish
+uses a little bit of zsh
+----------------------------
+the source is not 100% acurate as the same of the real thing but thats because cosmito pc is in the shop!
+
+but trust the real project when you install will be a completly diffrnet expercnice
