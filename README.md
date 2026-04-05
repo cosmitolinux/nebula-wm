@@ -10,7 +10,7 @@
   <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for minimal aesthetics, fluid motion, and a unique "Floating Island" workflow based off end4, and while being low on resources. ( ignore the empty repos they are still being worked on )
 </p>
 
---- > <img width="242" height="194" alt="cachyos" src="https://github.com/user-attachments/assets/45059e1a-470a-431f-b509-35b978360f11" />
+--- > <img width="242" height="194" alt="cachyos" src="https://github.com/user-attachments/assets/45059e1a-470a-431f-b509-35b978360f11" /> ## Something really important is that the whole shell has been updated and has added support for NixOS!!
 
 
 ## why n3bu1a?
