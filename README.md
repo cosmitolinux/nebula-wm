@@ -4,6 +4,7 @@
   <a href="https://github.com/cosmito/n3bu1a-shell/stargazers"><img src="https://img.shields.io/github/stars/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="stars"></a>
   <a href="https://github.com/cosmito/n3bu1a-shell/network/members"><img src="https://img.shields.io/github/forks/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="forks"></a>
   <a href="https://github.com/cosmito/n3bu1a-shell/releases"><img src="https://img.shields.io/github/v/release/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="release"></a>
+  <a href=https://github.com/cosmitolinux/n3matrix>
 </p>
 
 <p align="center">
