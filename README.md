@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for 1080p displays. 
-  focused on minimal aesthetics, fluid motion, and a unique "Floating Island" workflow.
+  <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for minimal aesthetics, fluid motion, and a unique "Floating Island" workflow based off end4, and while being low on resources.
 </p>
 
 ---
@@ -26,6 +25,15 @@ n3bu1a isn't just a config—it's a rebuilt desktop experience. it takes the raw
 > [!IMPORTANT]
 > screenshots coming soon. check the releases tab for the latest builds.
 
+## built in crap
+- **Spiceify** - comes with starry night theme
+- **Vesktop Custom theme** -- litreally just vencord but on linux
+- **smooth animations and terminal commands** -- for the good looks
+- **Chaotic-AUR** -- bc automatic building aur packages
+- **oh my fish** -- equal to zsh and looks good
+- **hyprlock** -- i mean i could make my own locking system but not at this moment
+**this is a new project so dont expect the best**
+
 ## usage
 n3bu1a is distributed as a complete shell package. 
 to get started, check the documentation in the repository or download the latest release from the sidebar.
@@ -35,6 +43,8 @@ to get started, check the documentation in the repository or download the latest
 ## special thanks
 - **hyprland** - for the inspiration and foundation.
 - **the community** - for the endless customization ideas.
+- **end4** - for the google theming and illogical-impulse theming
+- **quickshell** - for the smooth and sexy animations out the box
 
 <p align="center">
   <i>developed by cosmito and his team</i>
