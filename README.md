@@ -23,7 +23,8 @@ n3bu1a isn't just a config—it's a rebuilt desktop experience. it takes the raw
 
 ## gallery
 > [!IMPORTANT]
-> screenshots coming soon. check the releases tab for the latest builds.
+> <img width="1919" height="1079" alt="2026-04-05_01-40-55" src="https://github.com/user-attachments/assets/74ee248e-1520-4c66-aa03-fe53ab70db05" />
+
 
 ## built in crap
 - **Spiceify** - comes with starry night theme
