@@ -1,0 +1,8 @@
+[package]
+name = "n3bu1a"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "n3bu1a"
+path = "src/main.rs"
