@@ -1,39 +1,41 @@
-# 🌌 n3bu1a
+<h1 align="center">n3bu1a shell</h1>
 
-A stable, resource-free Wayland environment.
-Built on Quickshell and heavily inspired by the end4 (illogical-impulse) architecture. "mostly stable on arch/arch-based"
-And uses custom packages (like a custom comitbar -- waybar alt and mitck -- dynamic dock) but the packages dont work
-due to some errors so expected it to be fixed in mid 2027
+<p align="center">
+  <a href="https://github.com/cosmito/n3bu1a-shell/stargazers"><img src="https://img.shields.io/github/stars/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="stars"></a>
+  <a href="https://github.com/cosmito/n3bu1a-shell/network/members"><img src="https://img.shields.io/github/forks/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="forks"></a>
+  <a href="https://github.com/cosmito/n3bu1a-shell/releases"><img src="https://img.shields.io/github/v/release/cosmito/n3bu1a-shell?color=81c19b&labelColor=303446&style=for-the-badge" alt="release"></a>
+</p>
 
-# ⚠️ Caution: Beta Software
+<p align="center">
+  <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for 1080p displays. 
+  focused on minimal aesthetics, fluid motion, and a unique "Floating Island" workflow.
+</p>
 
-> [!CAUTION]
->This window manager project is currently in Beta.
-While designed for stability and performance, it involves deep system configurations. I recommend using this at your own risk. Always back up your existing dotfiles before installation!
+---
 
-# 🚀 Overview
+## why n3bu1a?
+n3bu1a isn't just a config—it's a rebuilt desktop experience. it takes the raw power of wayland and wraps it in a polished, consistent interface that feels premium out of the box.
 
-> n3bu1a is a strictly optimized, minimal-latency environment designed for users who want a high-end aesthetic without the resource overhead. By leveraging CachyOS performance and a custom Quickshell interface, n3bu1a provides a seamless workflow.
+- **floating island ui:** a centered, pill-style bar that stays out of the way.
+- **google sans flex:** premium typography integrated into every module.
+- **custom logic:** built-in controls for system tasks and screenshots.
+- **1080p optimized:** every element is scaled perfectly for full HD screens.
+- **motion design:** custom bezier curves for transitions that feel like glass.
 
-Recommended distros: Arch/Arch-based NixOS Gentoo
+## gallery
+> [!IMPORTANT]
+> screenshots coming soon. check the releases tab for the latest builds.
 
-Logic: End4-inspired and have Fluid, Sexy looking Animations
+## usage
+n3bu1a is distributed as a complete shell package. 
+to get started, check the documentation in the repository or download the latest release from the sidebar.
 
- Shell: Custom Quickshell UI inspired by End4
+---
 
-Typography: SF Pro (Optical Sizes) and Google Sans/Nerd fonts (for the icons ofcc)
+## special thanks
+- **hyprland** - for the inspiration and foundation.
+- **the community** - for the endless customization ideas.
 
- Theme: Starry Night | Nebula-like theme
-
-# 🛠️ Key Features
-
-Resource-Free: Zero unnecessary background processes. (expect comitbar and more)
-
-Stable Core: Built for daily production use.
-
-Deeply Integrated: Custom Spicetify and GTK branding out of the box.
-
-Meant to be paired with CachyOS: Gives the ultimate speed alongside with a Fluid and Strong look! 
-
-# Project Made By Cosmito and his team
-Please learn that was a SOLO project which means I have to debug all the existing issues before final release (estimated pre-release is in late 2026) but since we got a team working on this now it will probably release in Late 2026
+<p align="center">
+  <i>developed by cosmito and his team</i>
+</p>
