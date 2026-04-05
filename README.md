@@ -34,5 +34,5 @@ Deeply Integrated: Custom Spicetify and GTK branding out of the box.
 
 Meant to be paired with CachyOS: Gives the ultimate speed alongside with a Fluid and Strong look! 
 
-# Project Made By Cosmito (no one else worked on this)
-Please learn that is a SOLO project which means I have to debug all the existing issues before final release (estimated pre-release is in late 2026)
+# Project Made By Cosmito and his team
+Please learn that was a SOLO project which means I have to debug all the existing issues before final release (estimated pre-release is in late 2026) but since we got a team working on this now it will probably release in Late 2026
