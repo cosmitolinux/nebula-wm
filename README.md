@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for minimal aesthetics, fluid motion, and a unique "Floating Island" workflow based off end4, and while being low on resources.
+  <b>n3bu1a</b> is a customized, high-performance Wayland shell environment designed for minimal aesthetics, fluid motion, and a unique "Floating Island" workflow based off end4, and while being low on resources. ( ignore the empty repos they are still being worked on )
 </p>
 
 ---
